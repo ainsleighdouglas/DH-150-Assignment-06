@@ -28,7 +28,7 @@ Additionally I tested a prototype for desktop as well as mobile to take into con
 
 #### Initial paper prototypes: https://drive.google.com/file/d/1jfkI40ERYCwqzprWX16UXOJQq7JMLYkW/view?usp=sharing
 
-#### User testing video:
+#### User testing video: https://drive.google.com/drive/folders/1iK00-UzpGuWVBmcjPUKM7R2wJpP0RaAF?usp=sharing
 
 #### Tasks and corresponding colors:
 
