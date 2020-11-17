@@ -40,4 +40,22 @@ Additionally I tested a prototype for desktop as well as mobile to take into con
 #### Features description:
 The user always begins at the login page which will always land them on the home page. There will always be two ways to navigate from the home page: using the toolbar (which includes the search feature) and using the drop down menu from the icon with the three horizontal bars. On desktop all of these features are located at the top and on mobile the drop down menu can be accessed from the top and the toolbar can be found at the bottom. For both versions the icon remains highlighted to show which page you are on. The toolbar leads you to five features: home page, favorites, your feed, search and downloads. Each page categorizes shows best fitting their description (Ex: Favorites would lead you to your liked or saved shows). The drop down menu is another way of categorizing shows you can access (genres, recently watched, etc.). The drop down menu also includes more technical features such as settings, profile and and logging out. Other points of interaction is the “X” to close out pages that don’t show the toolbar. 
 
+### Iteration 1 - Desktop:
+
+#### Confusions and/or unexpected interactions:
+The user began with small complications in figuring out wire framing since this was their first experience with it, however they picked it up fairly quickly. They did not  use the personalize/customize tool as expected, they selected shows they would like instead of ranking the shows they would like to prioritize. Since they were unclear on this feature they suggested putting a limit on how many features you are allowed to choose to be displayed. The user suggested switching my format of the Season/Episode format so it had a more logical top down reasoning. They had a slight pause in finding the toolbar in the desktop version of the site. Since there are new icons the user used deductive reasoning to figure out which ones they were looking for because I referred to them by name instead of symbol in the tasks.
+Overall the interactions my user chose were very clear. They got stuck on features that I expected were going to be unfamiliar for them. As for layout and accessibility they seemed to have a fairly easy time navigating the wireframing.
+
+### Iteration 2 - Mobile:
+
+#### Confusions and/or unexpected interactions:
+After previous experience with the desktop wire frame it was clear that the format was more intuitive to the user. I realized that some of the features were lacking play buttons so it was not obvious to the user what was available to click on or watch. 
+
+## Reflection
+To first start off I wish I had given my user an example or better description of what wire framing was however since they improved fairly quickly I would say this was a minor hiccup.  I was most surprised by the users interaction with the personalization tool since they chose to select shows instead of rank them. In the description I stated to rank them and used the three thin bar icons next to each one to show they should be moved vertically. However it is clear that my user had no previous interactions with this type of icon so I need to be more clear on its capabilities. Additionally, most users do not read descriptions so I need to make my design more intuitive. This would include numbers listed on the left hand to show that they need to be ranked. 
+
+I wanted to directly compare the users flow from desktop to mobile so listed identical tasks. Initially I believed this would be a good idea but I forgot to consider that the tasks would be way more intuitive after doing them once. However, it was clear that some elements made more sense design wise in mobile format. First the toolbar was in a much more recognizable place because users are familiar with its location because of social media mobile apps. Additionally, the “my feed” feature fits the scrolling availability on smartphones versus the desktop. 
+
+Overall I would explain the new features more clearly and I will label the new icons so it is more clear of their capability. 
+
 
