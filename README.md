@@ -20,6 +20,6 @@ Expand the recently watched menu, switch to favorites in the toolbar and “shar
 
 #### Task 4: 
 Access “your feed” through the live icon in the toolbar and start watching a show
-##### - “Your feed” is a new way of viewing your suggested and recently watched categories in a way that allows you to preview the first 15 seconds of each show in a social media type setting. This way if you are undecided on what you like to watch this feature initiates and feeds you the show. In this case you are more likely to decide on something faster because it is right in front of you. Since this is a completely new feature and icon I created for my streaming platform and I wanted to see if the user could find and access it using the powers of deduction. 
+####### - “Your feed” is a new way of viewing your suggested and recently watched categories in a way that allows you to preview the first 15 seconds of each show in a social media type setting. This way if you are undecided on what you like to watch this feature initiates and feeds you the show. In this case you are more likely to decide on something faster because it is right in front of you. Since this is a completely new feature and icon I created for my streaming platform and I wanted to see if the user could find and access it using the powers of deduction. 
 
 Additionally I tested a prototype for desktop as well as mobile to take into consideration that some features are more intuitive in one platform versus the other. 
