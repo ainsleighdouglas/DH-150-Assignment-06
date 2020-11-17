@@ -26,7 +26,7 @@ Additionally I tested a prototype for desktop as well as mobile to take into con
 
 ## Prototype Testing
 
-#### Initial paper prototypes:
+#### Initial paper prototypes: https://drive.google.com/file/d/1jfkI40ERYCwqzprWX16UXOJQq7JMLYkW/view?usp=sharing
 
 #### User testing video:
 
@@ -41,6 +41,8 @@ Additionally I tested a prototype for desktop as well as mobile to take into con
 The user always begins at the login page which will always land them on the home page. There will always be two ways to navigate from the home page: using the toolbar (which includes the search feature) and using the drop down menu from the icon with the three horizontal bars. On desktop all of these features are located at the top and on mobile the drop down menu can be accessed from the top and the toolbar can be found at the bottom. For both versions the icon remains highlighted to show which page you are on. The toolbar leads you to five features: home page, favorites, your feed, search and downloads. Each page categorizes shows best fitting their description (Ex: Favorites would lead you to your liked or saved shows). The drop down menu is another way of categorizing shows you can access (genres, recently watched, etc.). The drop down menu also includes more technical features such as settings, profile and and logging out. Other points of interaction is the “X” to close out pages that don’t show the toolbar. 
 
 ### Iteration 1 - Desktop:
+
+
 
 #### Confusions and/or unexpected interactions:
 The user began with small complications in figuring out wire framing since this was their first experience with it, however they picked it up fairly quickly. They did not  use the personalize/customize tool as expected, they selected shows they would like instead of ranking the shows they would like to prioritize. Since they were unclear on this feature they suggested putting a limit on how many features you are allowed to choose to be displayed. The user suggested switching my format of the Season/Episode format so it had a more logical top down reasoning. They had a slight pause in finding the toolbar in the desktop version of the site. Since there are new icons the user used deductive reasoning to figure out which ones they were looking for because I referred to them by name instead of symbol in the tasks.
