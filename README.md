@@ -42,13 +42,15 @@ The user always begins at the login page which will always land them on the home
 
 ### Iteration 1 - Desktop:
 
-
+<img src="assignment 5-01.png">
 
 #### Confusions and/or unexpected interactions:
 The user began with small complications in figuring out wire framing since this was their first experience with it, however they picked it up fairly quickly. They did not  use the personalize/customize tool as expected, they selected shows they would like instead of ranking the shows they would like to prioritize. Since they were unclear on this feature they suggested putting a limit on how many features you are allowed to choose to be displayed. The user suggested switching my format of the Season/Episode format so it had a more logical top down reasoning. They had a slight pause in finding the toolbar in the desktop version of the site. Since there are new icons the user used deductive reasoning to figure out which ones they were looking for because I referred to them by name instead of symbol in the tasks.
 Overall the interactions my user chose were very clear. They got stuck on features that I expected were going to be unfamiliar for them. As for layout and accessibility they seemed to have a fairly easy time navigating the wireframing.
 
 ### Iteration 2 - Mobile:
+
+<img src="assignment 5-01.png">
 
 #### Confusions and/or unexpected interactions:
 After previous experience with the desktop wire frame it was clear that the format was more intuitive to the user. I realized that some of the features were lacking play buttons so it was not obvious to the user what was available to click on or watch. 
