@@ -24,7 +24,7 @@ Access “your feed” through the live icon in the toolbar and start watching a
 
 Additionally I tested a prototype for desktop as well as mobile to take into consideration that some features are more intuitive in one platform versus the other. 
 
-### Prototype Testing
+## Prototype Testing
 
 #### Initial paper prototypes:
 
@@ -36,4 +36,8 @@ Additionally I tested a prototype for desktop as well as mobile to take into con
 2. Access the horror genre and select a show (red)
 3. Expand the recently watched menu, switch to favorites in the toolbar and “share a show” (Purple)
 4. Access “your feed” through the live icon in the toolbar and start watching a show
+
+#### Features description:
+The user always begins at the login page which will always land them on the home page. There will always be two ways to navigate from the home page: using the toolbar (which includes the search feature) and using the drop down menu from the icon with the three horizontal bars. On desktop all of these features are located at the top and on mobile the drop down menu can be accessed from the top and the toolbar can be found at the bottom. For both versions the icon remains highlighted to show which page you are on. The toolbar leads you to five features: home page, favorites, your feed, search and downloads. Each page categorizes shows best fitting their description (Ex: Favorites would lead you to your liked or saved shows). The drop down menu is another way of categorizing shows you can access (genres, recently watched, etc.). The drop down menu also includes more technical features such as settings, profile and and logging out. Other points of interaction is the “X” to close out pages that don’t show the toolbar. 
+
 
